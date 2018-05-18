@@ -7,6 +7,7 @@ namespace Euler
     {
         static void Main(string[] args)
         {
+            Console.WriteLine($"Solution for problem 1: {new Problem1().GetSolution()}");
         }
     }
 }

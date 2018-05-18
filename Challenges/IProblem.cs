@@ -6,6 +6,6 @@ namespace Euler.Challenges
 {
     public interface IProblem
     {
-        object GetSoulution();
+        object GetSolution();
     }
 }
